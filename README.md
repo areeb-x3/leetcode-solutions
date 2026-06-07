@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/areeb-x3/leetcode-solutions/tree/master/0169-majority-element) |
+| [0414-third-maximum-number](https://github.com/areeb-x3/leetcode-solutions/tree/master/0414-third-maximum-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/areeb-x3/leetcode-solutions/tree/master/0169-majority-element) |
+| [0414-third-maximum-number](https://github.com/areeb-x3/leetcode-solutions/tree/master/0414-third-maximum-number) |
 ## Counting
 |  |
 | ------- |
