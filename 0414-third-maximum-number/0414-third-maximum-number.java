@@ -2,9 +2,9 @@ class Solution {
     public int thirdMax(int[] nums) {
         long max1 = Long.MIN_VALUE, max2 = Long.MIN_VALUE, max3 = Long.MIN_VALUE;
 
-        for (int i = 0; i < nums.length; i++) {
-            if(nums[i] == max1 || 
-               nums[i] == max2 || 
+        for(int i=0; i<nums.length; i++) {
+            if(nums[i] == max1 ||
+               nums[i] == max2 ||
                nums[i] == max3) {
                 continue;
             }
