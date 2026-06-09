@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/areeb-x3/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/areeb-x3/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/areeb-x3/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0169-majority-element](https://github.com/areeb-x3/leetcode-solutions/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/areeb-x3/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/areeb-x3/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/areeb-x3/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/areeb-x3/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/areeb-x3/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Simulation
 |  |
