@@ -1,12 +1,12 @@
 class Solution {
     public long maxTotalValue(int[] nums, int k) {
-        long max = Long.MIN_VALUE, min = Long.MAX_VALUE;
-        for(int i=0; i<nums.length; i++) {
-            if(nums[i] > max) {
-                max = nums[i];
+        long min = Long.MAX_VALUE, max = Long.MIN_VALUE;
+        for(long num : nums) {
+            if(num > max) {
+                max = num;
             }
-            if(nums[i] < min) {
-                min = nums[i];
+            if(num < min) {
+                min = num;
             }
         }
         return (max-min)*k;
