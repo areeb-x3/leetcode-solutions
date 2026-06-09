@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/areeb-x3/leetcode-solutions/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/areeb-x3/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/areeb-x3/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3689-maximum-total-subarray-value-i](https://github.com/areeb-x3/leetcode-solutions/tree/master/3689-maximum-total-subarray-value-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/areeb-x3/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+## Greedy
+|  |
+| ------- |
+| [3689-maximum-total-subarray-value-i](https://github.com/areeb-x3/leetcode-solutions/tree/master/3689-maximum-total-subarray-value-i) |
 <!---LeetCode Topics End-->
