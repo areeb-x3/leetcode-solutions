@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/areeb-x3/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/areeb-x3/leetcode-solutions/tree/master/0231-power-of-two) |
+| [3099-harshad-number](https://github.com/areeb-x3/leetcode-solutions/tree/master/3099-harshad-number) |
 ## Bit Manipulation
 |  |
 | ------- |
