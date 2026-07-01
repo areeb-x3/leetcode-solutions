@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/areeb-x3/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/areeb-x3/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0169-majority-element](https://github.com/areeb-x3/leetcode-solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/areeb-x3/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0414-third-maximum-number](https://github.com/areeb-x3/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/areeb-x3/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/areeb-x3/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/areeb-x3/leetcode-solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/areeb-x3/leetcode-solutions/tree/master/0229-majority-element-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/areeb-x3/leetcode-solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/areeb-x3/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0414-third-maximum-number](https://github.com/areeb-x3/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/areeb-x3/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/areeb-x3/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
@@ -52,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/areeb-x3/leetcode-solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/areeb-x3/leetcode-solutions/tree/master/0229-majority-element-ii) |
 ## Two Pointers
 |  |
 | ------- |
