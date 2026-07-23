@@ -10,10 +10,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/areeb-x3/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0866-prime-palindrome](https://github.com/areeb-x3/leetcode-solutions/tree/master/0866-prime-palindrome) |
 | [3099-harshad-number](https://github.com/areeb-x3/leetcode-solutions/tree/master/3099-harshad-number) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/areeb-x3/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/areeb-x3/leetcode-solutions/tree/master/0231-power-of-two) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/areeb-x3/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Recursion
 |  |
 | ------- |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/areeb-x3/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/areeb-x3/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/areeb-x3/leetcode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/areeb-x3/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3620-network-recovery-pathways](https://github.com/areeb-x3/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 | [3689-maximum-total-subarray-value-i](https://github.com/areeb-x3/leetcode-solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/areeb-x3/leetcode-solutions/tree/master/3691-maximum-total-subarray-value-ii) |
