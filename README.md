@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/areeb-x3/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/areeb-x3/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0836-rectangle-overlap](https://github.com/areeb-x3/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [0866-prime-palindrome](https://github.com/areeb-x3/leetcode-solutions/tree/master/0866-prime-palindrome) |
 | [3099-harshad-number](https://github.com/areeb-x3/leetcode-solutions/tree/master/3099-harshad-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/areeb-x3/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -180,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/areeb-x3/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/areeb-x3/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
